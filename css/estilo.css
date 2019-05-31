@@ -1,0 +1,28 @@
+#Home
+{
+	border: 2px solid black;
+	padding: 15%;
+}
+#slider-home {
+	margin-bottom: 50px;}
+.carousel-caption {
+	background-color: rgb(21, 90, 75, 0.80);
+	height: 100%;
+	left: 0;
+	top: 0;
+	padding: 30px 45px;
+	text-align: left;
+	width: 340px;
+}
+.carousel-caption p {
+font-size: 14px;
+line-height: 18px;
+}
+.carousel-caption img {
+
+	margin-left: 20%;
+	margin-bottom: 10%;
+}
+.adaptar{
+	width: 100%;
+}
