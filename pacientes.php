@@ -325,6 +325,7 @@
                 <option disabled selected >Seleccione una opción</option>
                 <option value="Hombre">Masculino</option>
                 <option value="Mujer">Femenino</option>
+                <option value="Indefinido">Indefinido</option>
             </select>
                  
                 </div>
